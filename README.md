@@ -11,6 +11,17 @@
 
 A complete, **production-ready** Order Management System REST API built from scratch. Features stateless JWT Authentication, JPA persistence on PostgreSQL database, transactional stock validation and restoration, declarative Kafka event streaming with Dead Letter Topic (DLT) resilience, Spring Boot Actuator health monitoring, CORS support, automated CI/CD pipeline, and interactive OpenAPI documentation.
 
+## 🚀 Live Demo
+
+The API is deployed and running in production on Railway, backed by managed PostgreSQL and Apache Kafka. The React client is hosted on Vercel.
+
+**Live API Base URL:** https://order-management-api-production-1970.up.railway.app/api/v1
+
+**Health Check:** https://order-management-api-production-1970.up.railway.app/actuator/health
+
+**Frontend Client:** https://order-management-frontend-kohl.vercel.app
+
+
 ---
 
 ## 🌟 Key Features
